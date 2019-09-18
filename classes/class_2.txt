@@ -1,0 +1,15 @@
+Class Kitchen
+
+Attributes
+
+number_Of_Grills : (integer)
+color_Of_Walls : (string)
+number_Of_Cooks : (integer)
+material_Of_Counters : (string)
+
+Methods
+
+update_Number_Of_Grills (changes how many grills are in kitchen by modifying number_Of_Grills attribute)
+change_Wall_Color (changes color of the walls in kitchen by modifying color_Of_Walls attribute)
+update_Number_Of_Cooks (changes number of cooks in kitchen by modifying number_Of_Cooks attribute)
+change_Counter_Material (changes the material of the counters in the kitchen by modifying the material_Of_Counters attribute)

@@ -1,0 +1,15 @@
+Object High Volume Diner Kitchen
+
+Attributes
+
+number_Of_Grills = 8
+color_Of_Walls = "white"
+number_Of_Cooks = 22
+material_Of_Counters = "granite"
+
+Methods
+
+update_Number_Of_Grills = 10
+change_Wall_Color = "yellow"
+update_Number_Of_Cooks = 24
+change_Counter_Material = "marble"
