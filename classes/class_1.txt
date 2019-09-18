@@ -1,0 +1,15 @@
+Class Diner
+
+Attributes
+
+number_Of_Waitresses : (integer)
+name : (string)
+number_Of_Tables : (integer)
+building_color : (string)
+
+Methods
+
+update_Number_Of_Waitresses
+change_Name
+update_Number_Of_Tables
+change_building_color
