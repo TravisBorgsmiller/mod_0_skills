@@ -1,4 +1,4 @@
-Object Woman's Bathroom
+Object Women's Bathroom
 
 number_Of_Toilets = 4
 color_Of_Door = "brown"
