@@ -7,7 +7,7 @@ color_Of_Walls : (string)
 number_Of_Cooks : (integer)
 material_Of_Counters : (string)
 
-Methods
+Methods 
 
 update_Number_Of_Grills (changes how many grills are in kitchen by modifying number_Of_Grills attribute)
 change_Wall_Color (changes color of the walls in kitchen by modifying color_Of_Walls attribute)
