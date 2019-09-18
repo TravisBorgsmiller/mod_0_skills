@@ -1,0 +1,33 @@
+1. Research Turing
+  1.1 Read through reviews
+    1.1.1 Google "Turing Reviews"
+      1.1.1.1 Search reviews through reputable websites such as "CourseReport"
+  1.2 Look at the relevant data
+    1.2.1 Pull up Turing website
+      1.2.1.1 Look through relevant data throughout websites
+    1.2.2 Pull up CIRR data
+      1.2.2.1 Compare Turing data to other schools
+  1.3 Go to "Try Coding" Workshop
+    1.3.1 Schedule weekend on calendar
+      1.3.1.1 Go to backend and frontend focused events and reap rewards
+2. Apply
+  2.1 Find a quiet area to work through the application
+    2.1.1 Pull up Turing application website
+      2.1.1.1 Complete Basic Identity and Contact Information section
+      2.1.1.2 Complete Work History section
+      2.1.1.3 Complete Logic Quiz
+4. Interview
+  4.1 Open email from Erin accepting you to move on to the interview phase
+    4.1.1 Click on link to schedule interview
+      4.1.1.1 Review the interview times and schedule a time that works for you
+  4.2 Conduct your interview at schedule time
+    4.2.1 Demonstrate your knowledge in areas of logic with interviewer
+    4.2.2 Answer answer questions related to yourself and Turing's culture
+5. Finalize Acceptance
+  5.1 Open email with your official acceptance
+    5.1.1 Review the links for financial information
+    5.1.2 Review other relevant Turing information including cohort start times and schedules
+  5.2 Complete application
+      5.2.1 Pick your mod 0 start date
+      5.2.2 Pick your cohort start date
+      5.2.3 Pay your $1200 deposit and get your computer
