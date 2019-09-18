@@ -5,7 +5,7 @@ color_Of_Door = "brown"
 number_Of_Sinks = 2
 attendant_Present = false
 
-Methods
+Methods 
 
 update_Number_Of_Toilets = 6
 change_Color_Of_Door = "white"
