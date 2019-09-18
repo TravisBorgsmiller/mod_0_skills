@@ -1,15 +1,15 @@
-Class Diner
+Class Bathroom
 
 Attributes
 
-number_Of_Waitresses : (integer)
-name : (string)
-number_Of_Tables : (integer)
-building_color : (string)
+number_Of_Toilets : (integer)
+color_Of_Door : (string)
+number_Of_Sinks : (integer)
+attendant_Present : (boolean)
 
 Methods
 
-update_Number_Of_Waitresses
-change_Name
-update_Number_Of_Tables
-change_building_color
+update_Number_Of_Toilets
+change_Color_Of_Door
+update_Number_Of_Sinks
+change_Attendant_Status
