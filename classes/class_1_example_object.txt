@@ -1,0 +1,13 @@
+Object Woman's Bathroom
+
+number_Of_Toilets = 4
+color_Of_Door = "brown"
+number_Of_Sinks = 2
+attendant_Present = false
+
+Methods
+
+update_Number_Of_Toilets = 6
+change_Color_Of_Door = "white"
+update_Number_Of_Sinks "4"
+change_Attendant_Status "true"
