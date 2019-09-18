@@ -9,7 +9,7 @@ attendant_Present : (boolean)
 
 Methods
 
-update_Number_Of_Toilets
-change_Color_Of_Door
-update_Number_Of_Sinks
-change_Attendant_Status
+update_Number_Of_Toilets (updates number of toilets for number_Of_Toilets attribute)
+change_Color_Of_Door (changes color of door for color_Of_Door attribute)
+update_Number_Of_Sinks (updates number of sinks for number_Of_Sinks attribute)
+change_Attendant_Status (changes whether an attendant is present for attendant_Present attribute)
